@@ -1,9 +1,9 @@
-public class HelloWorld
+public class test
   {
 public static void main(String[] args)
     {
 
-      System.Out.println("Hello World!");
+      System.out.println("Hello World!");
     }
     
   }
